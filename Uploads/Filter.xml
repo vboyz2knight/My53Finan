@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<Categories>
+  <Insurance>
+    <InsuranceX>ALLSTATE</InsuranceX>
+  </Insurance>
+  <Bank>
+    <BankX>Norton</BankX>
+  </Bank>
+  <CommunicationBill>
+  </CommunicationBill>
+  <PetBill>
+    <PetBillX>METRO ANIMAL SERVI</PetBillX>
+    <PetBillX>FEEDERS SUPPLY</PetBillX>
+  </PetBill>
+  <Cable>
+    <CableX>INSIGHT</CableX>
+    <CableX>REDBOX</CableX>
+    <CableX>BAXTER AVENUE THEA,</CableX>
+    <CableX>RAVE CINEMAS</CableX>
+  </Cable>
+  <Other>
+    <OtherX>L2GKY BD NURSING</OtherX>
+    <OtherX>IMAGE</OtherX>
+    <OtherX>SEYMOUR TRAVEL CTR</OtherX>
+    <OtherX>AMY'S HALLMARK</OtherX>
+    <OtherX>TJ</OtherX>
+    <OtherX>NORTON HOSPITA0007</OtherX>
+    <OtherX>EXPEDIA</OtherX>
+    <OtherX>MONTGOMERY CHEVROL</OtherX>
+    <OtherX>KINGPIN</OtherX>
+    <OtherX>CNS ADVANCE</OtherX>
+    <OtherX>1107COURIERJMNSSCC</OtherX>
+    <OtherX>ACT*anthem5k</OtherX>
+    <OtherX>5/3 JEANIE</OtherX>
+  </Other>
+  <Grocery>
+    <GroceryX>KROGER</GroceryX>
+    <GroceryX>SOUTHSIDE PIC PA</GroceryX>
+    <GroceryX>Wal-Mart</GroceryX>
+    <GroceryX>BINH PHUOC ORIENTA</GroceryX>
+    <GroceryX>FRANKS MEATS</GroceryX>
+    <GroceryX>WALGREENS</GroceryX>
+    <GroceryX>BIG LOTS</GroceryX>
+    <GroceryX>TARGET</GroceryX>
+    <GroceryX>OLLIES BARGAIN</GroceryX>
+    <GroceryX>SAM'S Club</GroceryX>
+    <GroceryX>OISHII SUSHI TEMPU</GroceryX>
+    <GroceryX>MEIJER</GroceryX>
+    <GroceryX>SAMSCLUB</GroceryX>
+    <GroceryX>A CHAU GROCERY STO</GroceryX>
+    <GroceryX>TRADER JOE'S</GroceryX>
+    <GroceryX>BURGER KING</GroceryX>
+    <GroceryX>Viet Hoa</GroceryX>
+    <GroceryX>ORIENTAL SUPERMARK</GroceryX>
+  </Grocery>
+  <Restaurant>
+    <RestaurantX>CE FIORE</RestaurantX>
+    <RestaurantX>BOMBAY GRILL</RestaurantX>
+    <RestaurantX>ANNIE CAFE</RestaurantX>
+    <RestaurantX>SUN WAH BAR BQ BRO</RestaurantX>
+    <RestaurantX>MCDONALD'S</RestaurantX>
+    <RestaurantX>QDOBA MEXICAN GRIL</RestaurantX>
+    <RestaurantX>POPEYES</RestaurantX>
+    <RestaurantX>FAMOUS DAVES</RestaurantX>
+    <RestaurantX>SUBWAY</RestaurantX>
+    <RestaurantX>CITY CAFE,</RestaurantX>
+    <RestaurantX>QDOBA</RestaurantX>
+    <RestaurantX>HIGHLAND COFFEE CO</RestaurantX>
+    <RestaurantX>SUNERGOS COFFEE LT</RestaurantX>
+    <RestaurantX>ORIENTAL HOUSE</RestaurantX>
+  </Restaurant>
+  <CarBill>
+    <CarBillX>SPEEDWAY</CarBillX>
+    <CarBillX>SHELL</CarBillX>
+    <CarBillX>AUTOZONE</CarBillX>
+  </CarBill>
+  <HomeBill>
+    <HomeBillX>LOWES</HomeBillX>
+    <HomeBillX>SOU THE HOME DEP</HomeBillX>
+    <HomeBillX>Louisville Gas</HomeBillX>
+    <HomeBillX>LOWE'S</HomeBillX>
+    <HomeBillX>LOU WATER CO WATER</HomeBillX>
+  </HomeBill>
+</Categories>
